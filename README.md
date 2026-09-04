@@ -4,23 +4,25 @@
 
 I turn ideas into clear, useful web experiences with thoughtful details, accessible structure, and a little personality. I use AI as a creative and development partner to explore ideas, move faster, and improve the quality of the pages I build.
 
-I completed front-end training with Zuri and I'm continuing to grow through hands-on projects.
+I completed front-end training with Zuri and graduated with an HND in Computer Science (Software and Web Development) from The Federal Polytechnic Ado-Ekiti with Upper Credit.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e655f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealWilliandro/Okun-Williams-Portfolio)
+[![Email](https://img.shields.io/badge/Email-ED8B5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okunwilliams@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1e2924?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Real_williandro)
 
 ## What I work with
 
+![HTML5](https://img.shields.io/badge/HTML5-ED8B5C?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0E655F?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4C864?style=flat-square&logo=javascript&logoColor=1e2924)
-![HTML](https://img.shields.io/badge/HTML5-ED8B5C?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-0E655F?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6860A9?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DCDCF0?style=flat-square&logo=python&logoColor=1e2924)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-17241F?style=flat-square&logo=git&logoColor=white)
 
-- Responsive layouts and mobile-first styling
+- Responsive web design and mobile-first layouts
 - Semantic HTML and accessible interactions
-- JavaScript interfaces with practical state and persistence
+- JavaScript interfaces and practical UI state
 - AI-assisted ideation, prototyping, and development
-- Learning TypeScript, modern tooling, and stronger UI architecture
+- Problem-solving, teamwork, communication, and time management
 
 ## Featured work
 
@@ -34,9 +36,9 @@ A focused job application tracker built with HTML, CSS, and vanilla JavaScript. 
 
 - Building responsive pages and small products that make everyday workflows easier
 - Using AI to explore, build, and refine better web experiences
-- Improving my JavaScript and TypeScript fundamentals
+- Growing my frontend skills through hands-on projects
 - Looking for opportunities to contribute, learn, and grow with a thoughtful team
 
 ## Let's connect
 
-I'm open to front-end opportunities, collaborations, and useful feedback on my work. Thanks for stopping by.
+I'm open to Junior Frontend Developer, Web Developer, collaboration, and learning opportunities. Thanks for stopping by.
