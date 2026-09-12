@@ -100,7 +100,7 @@ Have a project, an idea, or a role in mind? Let's talk.
 - **Phone:** [+234 903 960 3890](tel:+2349039603890)
 - **Location:** Lagos, Nigeria
 - **GitHub:** [github.com/WillyDev029](https://github.com/WillyDev029)
-- **X / Twitter:** [@Real_williandro](https://twitter.com/Real_williandro)
+- **X / Twitter:** [@willy029w](https://twitter.com/@willy029w)
 
 <div align="center">
 
